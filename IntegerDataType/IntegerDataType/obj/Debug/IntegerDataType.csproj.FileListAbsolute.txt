@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\IntegerDataType\IntegerDataType\bin\Debug\IntegerDataType.exe.config
+C:\Users\David\source\repos\IntegerDataType\IntegerDataType\bin\Debug\IntegerDataType.exe
+C:\Users\David\source\repos\IntegerDataType\IntegerDataType\bin\Debug\IntegerDataType.pdb
+C:\Users\David\source\repos\IntegerDataType\IntegerDataType\obj\Debug\IntegerDataType.csprojAssemblyReference.cache
+C:\Users\David\source\repos\IntegerDataType\IntegerDataType\obj\Debug\IntegerDataType.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\IntegerDataType\IntegerDataType\obj\Debug\IntegerDataType.exe
+C:\Users\David\source\repos\IntegerDataType\IntegerDataType\obj\Debug\IntegerDataType.pdb
