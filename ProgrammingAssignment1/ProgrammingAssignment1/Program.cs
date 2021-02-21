@@ -45,7 +45,7 @@ namespace ProgrammingAssignment1
 
                 float hypotenuse = (float)Math.Sqrt(Math.Pow(deltaX, 2) + Math.Pow(deltaY, 2));
 
-                float angleRads = (float)Math.Atan2(deltaX, deltaY);
+                float angleRads = (float)Math.Atan2(deltaY, deltaX);
 
                 float angleDegrees = angleRads * 180 / (float)Math.PI;
 
