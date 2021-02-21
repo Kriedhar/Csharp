@@ -10,14 +10,15 @@ namespace Exercise6
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the angle in degrees: ");
-            float angle = float.Parse(Console.ReadLine());
+            Console.Write("Enter first altitude: ");
+            int firstAltitude = int.Parse(Console.ReadLine());
 
-            float cosine = (float)Math.Cos(angle * Math.PI / 180);
-            float sine = (float)Math.Sin(angle * Math.PI / 180);
+            Console.Write("Enter second altitude: ");
+            int secondAltitude = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("The sine of " + angle + " degrees is: " + sine);
-            Console.WriteLine("The cosine of " + angle + " degrees is: " + cosine);
+            int change = secondAltitude - firstAltitude;
+
+            Console.WriteLine("The difference between both altitudes is: " + change);
         }
     }
 }
