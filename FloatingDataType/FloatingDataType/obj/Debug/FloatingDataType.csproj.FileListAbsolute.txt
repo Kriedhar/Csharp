@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\FloatingDataType\FloatingDataType\bin\Debug\FloatingDataType.exe.config
+C:\Users\David\source\repos\FloatingDataType\FloatingDataType\bin\Debug\FloatingDataType.exe
+C:\Users\David\source\repos\FloatingDataType\FloatingDataType\bin\Debug\FloatingDataType.pdb
+C:\Users\David\source\repos\FloatingDataType\FloatingDataType\obj\Debug\FloatingDataType.csprojAssemblyReference.cache
+C:\Users\David\source\repos\FloatingDataType\FloatingDataType\obj\Debug\FloatingDataType.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\FloatingDataType\FloatingDataType\obj\Debug\FloatingDataType.exe
+C:\Users\David\source\repos\FloatingDataType\FloatingDataType\obj\Debug\FloatingDataType.pdb
